@@ -1,3 +1,4 @@
 [submodule "Modules"]
 	path = Modules
 	url = https://github.com/DmytroTsyganov/Modules
+	branch = main
